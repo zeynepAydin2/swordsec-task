@@ -1,3 +1,1 @@
 # swordsec-task
-
-deneme commit
